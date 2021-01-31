@@ -3,7 +3,7 @@
 Important Notice!
 --------------------------------------------------
 Please note that doing trial Reset is not fair and legal process.The company and its developers have 
-put in a lot of effort to create such software.It is better to show them the support by buying the full version.
+put in a lot of effort and money to create such software.It is better to show them the support by buying the full version.
 By using this software you are agreeing to the fact that me(the developer) will not be responsible for any damage or issues(both legal and Non-legal) casued by the user using this software.
 
 User Instructions
