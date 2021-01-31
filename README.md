@@ -1,0 +1,1 @@
+# Adobe-Acrobat-Trial-Resetter
