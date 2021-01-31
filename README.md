@@ -20,4 +20,4 @@ User Instructions
 
 NOTE
 ---------------------------------------------------
-Please make sure that you have the Adobe Acrobat installed in the default directory created by the software which is normally "C:\Program Files (x86)\Adobe" for both 64 and 32 bit Architecture systems.If it is not then the program won't be able to do the task, which is a limitation of this program.
+Please make sure that you have the Adobe Acrobat installed in the default directory created by the software which is normally "C:\Program Files (x86)\Adobe" for both 64 and 32 bit Architecture systems.If it is not then the program won't be able to do the task, which is a limitation of my program.
