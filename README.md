@@ -17,3 +17,7 @@ User Instructions
 ![Screenshot (115)](https://user-images.githubusercontent.com/56044352/106393433-18553a80-641d-11eb-9913-722514ee67e1.png)
 ![Screenshot (116)](https://user-images.githubusercontent.com/56044352/106393443-24d99300-641d-11eb-82c7-b18197b3f3fb.png)
 6. That's all, Enjoy!!!!!
+
+NOTE
+---------------------------------------------------
+Please make sure that you have the Adobe Acrobat installed in the default directory created by the software which is normally "C:\Program Files (x86)\Adobe" for both 64 and 32 bit Architecture systems.If it is not then the program won't be able to do the task, which is a limitation of this program.
