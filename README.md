@@ -11,6 +11,7 @@ User Instructions
 1. Close your Adobe acrobat pro
 2. Run the '.exe' file and extract files to a folder
 3. Run the 'Acrobat Pro Trial Resetter.exe' file in the extracted folder (Make sure that the software is runnning in administrative mode)
+
 ![Screenshot (114)](https://user-images.githubusercontent.com/56044352/106393416-01aee380-641d-11eb-909b-d136c744c507.png)
 4. Click on Reset Trial button
 5. Click on 'Ok' in the following popup window wait for few seconds until the other popup window with title 'SERIAL NUMEBER UPDATED'.
